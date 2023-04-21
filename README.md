@@ -9,5 +9,10 @@ This is a book website and was made using Tailwind CSS.
 
 ![Screenshot_13](https://user-images.githubusercontent.com/84645404/233749370-36c0f4c8-e3fd-490d-afc4-1984bf7fb4e8.png)
 
-Dark Mode:
+Dark Mode
 ![Screenshot_14](https://user-images.githubusercontent.com/84645404/233749392-c86feb1c-9b42-4923-a5c8-9e067b61c594.png)
+
+Responsive Design
+![Screenshot_15](https://user-images.githubusercontent.com/84645404/233749661-4155241c-37c7-402e-94c3-fe028f47ec8a.png)
+
+![Screenshot_16](https://user-images.githubusercontent.com/84645404/233749662-fb837e5e-f0b5-4c3c-986b-69b2fb62b015.png)
